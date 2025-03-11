@@ -37,6 +37,58 @@
             "Revenue": "$14,149",
             "HomePage": "https://www.fedex.com",
             "Logo": "FedEx.jpg"
+          },
+          {
+            "Company": "Con-way",
+            "Services": "Less-than-Truckload (LTL) Freight, Truckload (TL) Services, Supply Chain and Logistics Management, International Freigh",
+            "Hubs": {
+              "Hub": [
+                "Ann Arbor Charter Township, Michigan, U.S.",
+                "Con-way, Inc. was an American multinational freight transportation and logistics company headquartered in Ann Arbor, Michigan, United States."
+              ]
+            },
+            "Revenue": "$5,806 million",
+            "HomePage": "https://ext-web.ltl-xpo.com/landing",
+            "Logo": "con-way.png"
+          },
+          {
+            "Company": "JBHunt",
+            "Services": "Intermodal, Dedicated Contract Services (DCS), Truckload (JBT)",
+            "Hubs": {
+              "Hub": [
+                "Lowell, Arkansas, U.S.",
+                "J.B. Hunt operates an extensive network of terminals and service centers across the United States and Mexico, supporting its diverse service offerings."
+              ]
+            },
+            "Revenue": "$3.30B",
+            "HomePage": "https://www.jbhunt.com/",
+            "Logo": "JBHunt.png"
+          },
+          {
+            "Company": "Swift",
+            "Services": "Dry Van Truckload, Refrigerated Truckload, Flatbed Truckload",
+            "Hubs": {
+              "Hub": [
+                "Phoenix, Arizona, U.S.",
+                "Swift is a vast network of terminals and service centers across the United States and Mexico, facilitating efficient freight movement."
+              ]
+            },
+            "Revenue": "$6B",
+            "HomePage": "https://careers.swifttrans.com/driver-jobs/experienced-CDL/?utm_campaign=IDPaidGoogleNonBrandDedicated5Lathrop&source=SwiftLead&number=866-982-1032&gad_source=1&gclid=EAIaIQobChMIgIrGl6aBjAMVDBatBh2fTDdQEAAYASAAEgKbdvD_BwE",
+            "Logo": "swift.png"
+          },
+          {
+            "Company": "YRCW",
+            "Services": "Less-Than-Truckload (LTL) Shipping, Regional and Long-Haul Solutions,Cross-Border Shipping",
+            "Hubs": {
+              "Hub": [
+                "5049 W Post Rd, Las Vegas, , U.S.",
+                "YRC Freight operates an extensive network of terminals and service centers across the United States, Canada, and Mexico."
+              ]
+            },
+            "Revenue": "$5.24B",
+            "HomePage": "https://myyellow.com/",
+            "Logo": "yrcw.png"
           }
         ]
       }
